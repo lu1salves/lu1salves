@@ -1,9 +1,8 @@
-OLá 👋
-
-- 🔭 I’m currently working on ...
+Hello 👋
 - 🌱 I’m currently learning webservices...
 - 👯 I’m looking to collaborate on backend projects...
 - 🤔 I’m looking for help with anything that I've already learned.
+- I'm also a competitive programmer
 - 📫 How to reach me: luisalveshr@gmail.com / luis_alves@discente.ufg.br
 
 <div align="center">
