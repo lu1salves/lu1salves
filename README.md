@@ -1,9 +1,9 @@
 Hello 👋
-- 🌱 I’m currently learning webservices...
+- 🌱 I’m currently learning about CORS and Machine Learning...
 - 👯 I’m looking to collaborate on backend projects...
 - 🤔 I’m looking for help with anything that I've already learned.
 - I'm also a competitive programmer
-- 📫 How to reach me: luisalveshr@gmail.com / luis_alves@discente.ufg.br
+- 📫 How to reach me: luisalveshr@gmail.com
 
 <div align="center">
   <a href="https://github.com/lu1salves">
