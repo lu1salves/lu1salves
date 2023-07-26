@@ -1,7 +1,6 @@
 Hello 👋
 - 🌱 I’m currently learning about CORS and Machine Learning...
 - 👯 I’m looking to collaborate on backend projects...
-- 🤔 I’m looking for help with anything that I've already learned.
 - I'm also a competitive programmer
 - 📫 How to reach me: luisalveshr@gmail.com
 
